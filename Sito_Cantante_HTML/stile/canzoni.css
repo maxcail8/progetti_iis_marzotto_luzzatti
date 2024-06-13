@@ -1,0 +1,44 @@
+h2{
+	font-size: 2em;
+}
+.quarto{
+	font-size: 20px;
+	color: yellow;
+	text-align: left;
+	position: relative;
+	padding-left: auto;
+}
+.quinto{
+	font-size: 20px;
+	color: lightblue;
+	text-align: center;
+	padding-left: 180px;
+	position: relative;
+}
+.sesto{
+	font-size: 20px;
+	color: pink;
+	text-align: right;
+	padding-left: 180px;
+	position: relative;
+}
+.settimo{
+	padding-left: 300px;
+	color: #2dd2d2;
+	text-shadow: white, 3em;
+}
+.ottavo{
+	text-align: right;
+	color: #fa9ecc;
+	text-shadow: white, 3em;
+}
+.color1{
+	color: #f2f20d;
+	text-shadow: white, 3em;
+}
+.colorli{
+	background-color: yellow;
+}
+.textnone{
+	text-decoration: none;
+}

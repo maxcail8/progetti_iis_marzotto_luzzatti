@@ -1,0 +1,45 @@
+ol{
+	color: white;
+}
+.nono{
+	color: green;
+}
+.decimo{
+	color: white;
+	background-color: black;
+}
+.border1{
+	border-right: 1px solid yellow;
+	border-left: 1px solid yellow;
+}
+.undicesimo{
+	color: red;
+}
+.dodicesimo{
+	color: white;
+	background-color: black;
+}
+.tredicesimo{
+	color: orange;
+}
+.colorli{
+	background-color: yellow;
+}
+.divalign{
+	text-align: center;
+}
+.img13{
+	padding-right: 200px;
+	padding-top: 50px;
+	float: right;
+}
+.img14{
+	padding-right: 100px;
+	padding-top: 150px;
+	float: right;
+}
+.img15{
+	padding-right: 200px;
+	padding-top: 100px;
+	float: right;
+}

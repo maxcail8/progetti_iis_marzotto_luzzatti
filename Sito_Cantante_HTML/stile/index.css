@@ -1,0 +1,15 @@
+img{
+	width: 600px;
+	height: 600px;
+	padding: 40px 450px;
+	border: yellow 20pt;
+}
+div{
+	color: white;
+	font-size: 20pt;
+	text-align: right;
+	font-style: italic;
+}
+.colorli{
+	background-color: yellow;
+}
